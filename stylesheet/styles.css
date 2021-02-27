@@ -160,15 +160,21 @@ margin-left: 100px;
    margin-top: 100px;
    text-align: left;
    margin-left: 100px;
-   letter-spacing: normal;
+   letter-spacing: 2;
 }
 
+.heading{
+   margin-top: 300px;
+   text-align: center;
+   letter-spacing: 2;
+   background-size: contain;
+}
    #specialist{
       padding: 0; 
       background-size: contain;
    }
 
-   #advice, .heading{
+   #advice{
       background-size: contain;
       height: auto;
       width: auto;
