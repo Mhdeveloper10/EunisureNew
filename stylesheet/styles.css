@@ -163,16 +163,12 @@ margin-left: 100px;
    letter-spacing: normal;
 }
 
-.heading{
-   margin-top: 300px;
-   text-align: left;
-}
    #specialist{
       padding: 0; 
       background-size: contain;
    }
 
-   #advice{
+   #advice, .heading{
       background-size: contain;
       height: auto;
       width: auto;
